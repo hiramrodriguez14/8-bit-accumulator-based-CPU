@@ -23,7 +23,7 @@ To run the 8bitCPU.circ you need oracle java enviroment and Logisim 2.7.1 (Logis
 Go to CPUIntro.pdf, this contains an introduction and how to start the system and execute a LOAD instruction.
 
 ## Authors:
-Hiram Rodríguez
-Lucas Martínez
-Jose Rodríguez
-Josue Colon
+Hiram Rodríguez,
+Lucas Martínez,
+Jose Rodríguez,
+Josue Colon,
