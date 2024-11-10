@@ -26,4 +26,4 @@ Go to CPUIntro.pdf, this contains an introduction and how to start the system an
 Hiram Rodríguez,
 Lucas Martínez,
 Jose Rodríguez,
-Josue Colon,
+Josue Colon
